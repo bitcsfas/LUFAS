@@ -1,1 +1,1 @@
-# LUFAS
+### Code for "Learning the Uncertainty of Unknown Spoof Attacks for Face Anti-Spoofing"
